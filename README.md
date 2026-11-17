@@ -15,3 +15,6 @@ Actions minutes are free.
 
 If GitHub disables the schedule after a long period of repository inactivity,
 open **Actions â†’ claudescoi scan â†’ Enable workflow**.
+
+Schedules are registered by the GitHub scheduler on push; this line just re-registers them.
+
